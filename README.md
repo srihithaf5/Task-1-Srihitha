@@ -105,6 +105,8 @@ GitHub: https://github.com/srihithaf5
 
 This project is created for educational and internship assignment purposes.
 <img width="1888" height="963" alt="Screenshot 2026-06-22 133546" src="https://github.com/user-attachments/assets/0b05a5cd-ee2d-43b0-a8de-53fe2b31099d" />
+<img width="1887" height="938" alt="Screenshot 2026-06-22 133706" src="https://github.com/user-attachments/assets/69d7aa0e-0390-4836-ab32-dcdf09aaeff7" />
+
 
 
 
