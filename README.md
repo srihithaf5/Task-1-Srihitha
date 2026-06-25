@@ -2,7 +2,7 @@
 
 A modern, responsive landing page built using HTML5, CSS3, and JavaScript. This project demonstrates responsive web design principles, CSS Grid, Flexbox layouts, accessibility best practices, and interactive user interface components.
 
-## 🚀 Features
+## Features
 
 * Fully Responsive Design
 * Mobile-First Approach
@@ -19,13 +19,13 @@ A modern, responsive landing page built using HTML5, CSS3, and JavaScript. This 
 * Smooth Scrolling Navigation
 * Modern UI/UX Design
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript (ES6)
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 project/
@@ -41,7 +41,7 @@ project/
 └── README.md
 ```
 
-## 📱 Responsive Design
+## Responsive Design
 
 The website is optimized for:
 
@@ -50,7 +50,7 @@ The website is optimized for:
 * Laptops
 * Desktop Screens
 
-## 🎨 Design Highlights
+## Design Highlights
 
 * Dark Modern Theme
 * Gradient Effects
@@ -59,7 +59,7 @@ The website is optimized for:
 * Smooth Hover Effects
 * Professional Layout Design
 
-## ⚡ Installation
+## Installation
 
 1. Clone the repository
 
@@ -75,7 +75,7 @@ cd Task-1-Srihitha
 
 3. Open `index.html` in your browser
 
-## 📸 Preview
+## Preview
 
 Open the website locally by launching:
 
@@ -83,7 +83,7 @@ Open the website locally by launching:
 index.html
 ```
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 This project demonstrates:
 
@@ -95,15 +95,8 @@ This project demonstrates:
 * Accessibility Best Practices
 * Modern Frontend Development Techniques
 
-## 👩‍💻 Author
+## Screenshots
 
-**Srihitha Pattem**
-
-GitHub: https://github.com/srihithaf5
-
-## 📄 License
-
-This project is created for educational and internship assignment purposes.
 <img width="1888" height="963" alt="Screenshot 2026-06-22 133546" src="https://github.com/user-attachments/assets/0b05a5cd-ee2d-43b0-a8de-53fe2b31099d" />
 <img width="1887" height="938" alt="Screenshot 2026-06-22 133706" src="https://github.com/user-attachments/assets/69d7aa0e-0390-4836-ab32-dcdf09aaeff7" />
 <img width="1868" height="1976" alt="image" src="https://github.com/user-attachments/assets/1baba4fd-a409-4d78-8890-bf2013840cf3" />
